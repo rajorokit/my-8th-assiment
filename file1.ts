@@ -1,0 +1,5 @@
+console.log("HELLO WORLD")
+console.log("Helping others")
+console.log("I wanta proper cup of coffee,made in a proper,copper coffee.")
+console.log("PAKISTAN")
+console.log("Balochistan sajji")

@@ -1,0 +1,14 @@
+console.log("Certified cloud applied generative ai engineer.");
+console.log("certified cloud applied generative ai engineer.");
+console.log("Artificial intelligent");
+console.log("Registration");
+console.log("Mother of nation.");
+console.log("Fatima jinnah.");
+console.log("Good deeds");
+console.log("Good habites");
+console.log("Discussion");
+console.log("Communication");
+console.log("Structure");
+console.log("My family");
+console.log("Punctuation.");
+console.log("Comprehension.");
